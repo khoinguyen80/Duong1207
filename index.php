@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>Klasse | Luxury bags and watches</title>
+        <title>khoi nguyen | Pro vip 1</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		<!-- favicon -->
@@ -404,7 +404,7 @@
 				<div class="row">
 					<div class="col-xs-12 col-sm-8 col-md-6 col-text-center">
 						<div class="section-title text-center">
-							<h3><span>Thanh Phuc</span> products</h3>
+							<h3><span>Kim Nguyen</span> products</h3>
 							<div class="shape">
 								<img src="img/icon/t-shape.png" alt="Title Shape">
 							</div>
